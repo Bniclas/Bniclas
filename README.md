@@ -14,7 +14,7 @@ My name is Niclas and I'm currently working on several private as well as public
 </div>
 
 
-## Frontend
+## Frontend Skills
 
 <div style="display: flex;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50" width="50" />
@@ -22,7 +22,7 @@ My name is Niclas and I'm currently working on several private as well as public
 </div>
 
 
-## Backend
+## Backend Skills
 <div style="display: flex;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="50" width="50" />
 </div>
